@@ -1,0 +1,17 @@
+nav{
+  background-color: indigo;
+  align-items: center;
+}
+nav ul{
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+nav li{
+  margin-right: 30px;
+}
+nav a{
+  color: #fff;
+  text-decoration: none;
+  margin-right: 50px;
+}
